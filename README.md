@@ -5,6 +5,9 @@ takoder imate neka osnovna pravila pri izradi UI/UX. program koji cete koristit 
 
 UI- User Interface - kako nesto radi  
 UX- User Experience - kako nesto izgleda/osjeca
+![uxvsui](https://github.com/neutronihr/materijali_dizajn/assets/89482125/b63d3a90-01e5-4a96-a357-a2efa915d598)
+
+
 
 ispod ovoga ce bit svi linkovi, objasnjeno sta je na njima i tjt. neke od ovih stvari mozete bookmarkat(alati za color palete, za ikone, za logo kompanija, za boje velikih kompanija)
 
@@ -117,6 +120,12 @@ tutorijal za figmu , malo kompleksiniji ali isto stvari sta cete vjv radit na po
 
 37. *[mui sistem](https://mui.com/)*  
 dizajn sistem od googlea u kojem imate vec gotove componente, idete gori livo na search i upistete sta van triba od kompnenata, slicno fluent2 od microsofta al bolje
+
+38. *[lordicon](https://lordicon.com/)*  
+library pun animiranih ikona koje mozete customizeat
+
+39. *[Pacdora](https://www.pacdora.com/)*
+stranica na kojoj mozete na 3d modelima isprobat dizajnove(znaci na modelima torbi, kutijama, bocama)
 
 ---
 
