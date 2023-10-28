@@ -127,6 +127,20 @@ library pun animiranih ikona koje mozete customizeat
 39. *[Pacdora](https://www.pacdora.com/)*
 stranica na kojoj mozete na 3d modelima isprobat dizajnove(znaci na modelima torbi, kutijama, bocama)
 
+40. *[UI Space](https://uispace.net/)*
+besplatne ikone, slike, templateovi, sketchevi
+
+41. *[freebie supply](https://freebiesupply.com/)*
+puno materijala za razlicite dizajnove
+
+42. *[UI Bundle](https://uibundle.com/)*
+isto materijali za dizajnove, pravila, mockupovi raznovrsno
+
+43. *[clipdrop](https://clipdrop.co/tools)*
+ai alat za generiranje slika, reimagining, highdef slike, remove backgrund, replace etc
+
+44. *[dreamstudio]( https://beta.dreamstudio.ai/generate)*
+dreamstudio alat za generiranje slika
 ---
 
 **to je kraj svih materijala sta san ja skupija, opet vi ne morate znat sve od ovoga ovo je kolekcija sta san skupija sebi i nadoda jos za vas. cini se korisno al vecina ovih stvari ce van trebat za uc u industriju.**
